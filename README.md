@@ -5,7 +5,7 @@ colorFrom: purple
 colorTo: pink
 sdk: gradio
 sdk_version: 6.0.1
-python_version: "3.12"
+python_version: "3.10"
 app_file: app.py
 pinned: false
 short_description: Adult image-to-video with Wan 2.2 and NSFW LoRA
